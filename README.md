@@ -1,0 +1,2 @@
+# AiMind
+Artificial Intelligence Mind
